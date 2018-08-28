@@ -1,4 +1,5 @@
-## Code for Programming Assignment 2 in Coursera: Programming in R
+## Code for Programming Assignment 2 in 
+## Coursera: R Programming (Part 2 of Data Science) (CSRDATA331)
 ## Overall assignment is to create two functions
 ## First is makeCacheMatrix which creates a special
 ## matrix object that can cache its own inverse
